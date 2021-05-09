@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background-color: cornflowerblue;
+    font:normal 20pt Arial;
+}
+section{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow:5px 5px 10px  rgba(0, 0, 0, 0.514);
+    width: 800px;
+    margin: auto;
+}
+div{
+    text-align: center;
+}
+li{
+    text-align: justify;
+}
+hr{
+    width: 850px;
+}
+dl{
+    text-align:justify;
+}
+dt{
+    padding: 10px;
+}
+dd{
+    padding: 10px;
+}
